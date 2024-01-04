@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color:  white;
+
+    background-color: #1F1F1F;
+}
+
+h1 {
+    letter-spacing: -1px;
+    word-spacing: 5px;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+h4 {
+    letter-spacing: -1px;
+    word-spacing: 2px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+input:focus {
+    border-color: #1F1F1F  !important;
+}
+
+input::placeholder {
+    font-size: 18px;
+  }
+
+button {
+    color: white !important;
+    border: 1px white solid !important;
+}
+
+button:hover {
+    background-color: gray !important;
+
+}
+
+.smashed {
+    font-weight: 900;
+}
+
+.verify {
+
+background-color:#1F1F1F;
+}
+
+footer {
+    background-color: #1F1F1F;
+    color: white;
+}
